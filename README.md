@@ -35,7 +35,7 @@ AI_WebScraper/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/tuo-utente/AI_TravelPlanner.git
+git clone https://github.com/andredisa/AI_TravelPlanner.git
 cd AI_TravelPlanner
 ```
 
